@@ -1,0 +1,9 @@
+.Dado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+ 
+.Dado svg { /* Target the SVG icons */
+      color: #98BF64; /* Change the icon color */
+  }
